@@ -1,0 +1,309 @@
+,Country,Year,Attack Type,Target Industry,Financial Loss (in Million $),Number of Affected Users,Attack Source,Security Vulnerability Type,Defense Mechanism Used,Incident Resolution Time (in Hours)
+2,India,2017,Man-in-the-Middle,IT,38.65,605895,Hacker Group,Weak Passwords,VPN,20
+8,India,2016,Man-in-the-Middle,Banking,16.88,698249,Unknown,Social Engineering,VPN,47
+12,India,2019,Ransomware,Education,30.56,583204,Insider,Zero-day,Firewall,37
+17,India,2015,DDoS,IT,93.14,805278,Insider,Social Engineering,Encryption,56
+19,India,2016,DDoS,IT,36.45,261808,Nation-state,Social Engineering,AI-based Detection,6
+22,India,2017,DDoS,Government,76.71,246205,Nation-state,Unpatched Software,Firewall,30
+32,India,2015,SQL Injection,IT,42.99,85255,Unknown,Unpatched Software,Encryption,61
+41,India,2021,SQL Injection,IT,98.09,826976,Nation-state,Zero-day,VPN,57
+47,India,2016,DDoS,Education,21.01,602692,Hacker Group,Unpatched Software,VPN,29
+54,India,2019,Man-in-the-Middle,Education,10.8,799474,Nation-state,Zero-day,AI-based Detection,23
+55,India,2020,DDoS,Banking,86.27,898655,Nation-state,Unpatched Software,AI-based Detection,10
+57,India,2018,DDoS,Healthcare,76.43,304162,Hacker Group,Unpatched Software,Firewall,56
+60,India,2019,Phishing,Healthcare,35.6,40718,Nation-state,Zero-day,VPN,24
+62,India,2024,DDoS,Education,73.37,475719,Nation-state,Social Engineering,Firewall,52
+89,India,2020,SQL Injection,Education,62.5,550656,Nation-state,Weak Passwords,Encryption,4
+100,India,2018,Ransomware,Retail,23.79,486810,Hacker Group,Unpatched Software,Antivirus,11
+128,India,2018,Phishing,IT,69.03,282139,Hacker Group,Unpatched Software,Encryption,37
+133,India,2018,DDoS,Government,80.89,268956,Nation-state,Zero-day,Antivirus,47
+154,India,2019,Phishing,Telecommunications,75.23,141627,Insider,Unpatched Software,AI-based Detection,64
+174,India,2022,Malware,Government,84.15,849745,Hacker Group,Social Engineering,Antivirus,51
+183,India,2022,DDoS,Healthcare,12.01,254980,Insider,Unpatched Software,AI-based Detection,58
+188,India,2021,Man-in-the-Middle,Telecommunications,71.64,416077,Insider,Social Engineering,VPN,39
+192,India,2017,Man-in-the-Middle,Government,69.69,713419,Hacker Group,Unpatched Software,AI-based Detection,70
+211,India,2023,Phishing,Telecommunications,11.72,512291,Insider,Zero-day,AI-based Detection,51
+216,India,2016,Ransomware,Retail,29.48,403737,Insider,Zero-day,Firewall,26
+241,India,2022,Ransomware,Education,57.52,170002,Unknown,Unpatched Software,AI-based Detection,54
+244,India,2018,DDoS,Government,36.04,446170,Insider,Unpatched Software,VPN,72
+245,India,2015,Malware,Telecommunications,14.09,28398,Insider,Zero-day,Encryption,22
+260,India,2016,Phishing,Retail,59.36,967614,Nation-state,Unpatched Software,AI-based Detection,71
+269,India,2017,Phishing,Retail,36.78,620056,Nation-state,Weak Passwords,Firewall,14
+277,India,2019,Man-in-the-Middle,Education,27.45,633466,Unknown,Zero-day,AI-based Detection,16
+284,India,2018,Man-in-the-Middle,Healthcare,94.6,7347,Insider,Zero-day,AI-based Detection,7
+292,India,2019,DDoS,Banking,46.98,147761,Unknown,Unpatched Software,AI-based Detection,68
+297,India,2019,DDoS,Telecommunications,36.86,116906,Insider,Social Engineering,VPN,7
+310,India,2022,Malware,Healthcare,38.89,400752,Insider,Unpatched Software,Antivirus,36
+319,India,2023,Ransomware,Telecommunications,3.51,661681,Hacker Group,Weak Passwords,AI-based Detection,14
+327,India,2017,Malware,Telecommunications,7.44,552358,Nation-state,Weak Passwords,AI-based Detection,42
+330,India,2024,Malware,Retail,56.19,114357,Insider,Zero-day,AI-based Detection,58
+333,India,2022,SQL Injection,IT,32.73,153154,Hacker Group,Zero-day,VPN,37
+342,India,2023,Malware,IT,54.21,157667,Insider,Weak Passwords,VPN,34
+346,India,2021,Man-in-the-Middle,Retail,40.94,698921,Insider,Weak Passwords,Firewall,72
+359,India,2015,SQL Injection,Government,46.2,245370,Insider,Social Engineering,AI-based Detection,57
+382,India,2024,Man-in-the-Middle,Government,62.06,321158,Insider,Zero-day,VPN,37
+392,India,2015,Phishing,Retail,49.51,72782,Unknown,Zero-day,Encryption,63
+397,India,2024,Ransomware,Retail,17.57,236253,Unknown,Social Engineering,Firewall,38
+409,India,2019,Ransomware,Telecommunications,32.08,429224,Unknown,Social Engineering,AI-based Detection,56
+412,India,2019,DDoS,Telecommunications,14.53,857688,Insider,Zero-day,Antivirus,55
+431,India,2023,SQL Injection,Retail,2.85,30883,Nation-state,Weak Passwords,AI-based Detection,51
+438,India,2023,DDoS,Education,82.11,23683,Hacker Group,Weak Passwords,Encryption,69
+445,India,2023,Ransomware,Education,41.15,352194,Nation-state,Unpatched Software,Firewall,10
+453,India,2017,DDoS,Government,75.52,352250,Insider,Zero-day,VPN,39
+466,India,2021,DDoS,Telecommunications,35.19,155426,Nation-state,Zero-day,Firewall,16
+489,India,2017,DDoS,IT,70.09,417831,Unknown,Unpatched Software,Encryption,36
+503,India,2018,Malware,Education,86.38,1174,Insider,Weak Passwords,VPN,23
+526,India,2023,SQL Injection,IT,92.35,380022,Unknown,Unpatched Software,Encryption,30
+537,India,2016,Ransomware,Healthcare,37.12,113404,Hacker Group,Social Engineering,Antivirus,11
+547,India,2018,Malware,Healthcare,30.83,481452,Unknown,Weak Passwords,AI-based Detection,57
+574,India,2015,Man-in-the-Middle,Education,79.89,416328,Nation-state,Zero-day,Encryption,55
+575,India,2021,Man-in-the-Middle,IT,53.49,582718,Hacker Group,Social Engineering,Encryption,20
+584,India,2023,Ransomware,Retail,4.32,217534,Unknown,Unpatched Software,VPN,48
+591,India,2024,DDoS,Retail,35.47,342575,Insider,Social Engineering,Firewall,49
+597,India,2017,Ransomware,Retail,80.93,837506,Nation-state,Zero-day,Antivirus,8
+619,India,2020,Man-in-the-Middle,IT,28.69,939469,Insider,Unpatched Software,Encryption,45
+624,India,2023,Ransomware,IT,18.53,925373,Insider,Zero-day,AI-based Detection,4
+625,India,2015,Malware,Telecommunications,1.52,913114,Insider,Unpatched Software,VPN,15
+633,India,2017,Ransomware,Retail,69.91,340928,Unknown,Social Engineering,Antivirus,61
+640,India,2017,Ransomware,Banking,9.81,489620,Unknown,Unpatched Software,VPN,43
+646,India,2023,SQL Injection,Government,28.71,497965,Unknown,Unpatched Software,VPN,25
+657,India,2016,Ransomware,Retail,9.53,89719,Unknown,Zero-day,Firewall,68
+666,India,2018,Ransomware,Banking,11.19,168881,Insider,Social Engineering,AI-based Detection,5
+677,India,2021,SQL Injection,Government,75.25,597509,Nation-state,Social Engineering,Firewall,20
+681,India,2024,Ransomware,IT,33.66,131900,Unknown,Unpatched Software,Antivirus,21
+684,India,2024,Phishing,Banking,23.32,879162,Unknown,Zero-day,VPN,38
+688,India,2022,Man-in-the-Middle,Banking,90.87,928859,Unknown,Unpatched Software,Firewall,32
+689,India,2017,SQL Injection,IT,78.94,858565,Unknown,Weak Passwords,Encryption,29
+705,India,2024,SQL Injection,Telecommunications,10.24,213393,Unknown,Social Engineering,Encryption,49
+716,India,2017,Phishing,Retail,97.87,113745,Unknown,Unpatched Software,Encryption,2
+726,India,2016,Malware,Banking,11.81,392365,Insider,Social Engineering,Antivirus,72
+734,India,2022,SQL Injection,Healthcare,77.3,826937,Unknown,Zero-day,AI-based Detection,64
+760,India,2018,Phishing,Banking,96.59,206552,Nation-state,Weak Passwords,Encryption,13
+767,India,2023,Ransomware,Banking,83.18,397813,Nation-state,Social Engineering,Antivirus,12
+780,India,2023,SQL Injection,Banking,48.53,421083,Insider,Unpatched Software,AI-based Detection,28
+809,India,2017,DDoS,Education,83.49,79933,Hacker Group,Zero-day,AI-based Detection,23
+819,India,2021,SQL Injection,Telecommunications,68.91,851981,Nation-state,Zero-day,AI-based Detection,57
+822,India,2024,Phishing,Banking,64.23,903871,Nation-state,Unpatched Software,Encryption,17
+823,India,2015,Malware,Education,64.29,924049,Nation-state,Social Engineering,VPN,5
+826,India,2018,SQL Injection,Education,52.05,874254,Nation-state,Zero-day,Antivirus,11
+833,India,2022,DDoS,IT,23.91,169310,Unknown,Weak Passwords,Encryption,36
+838,India,2022,Ransomware,Retail,74.05,205336,Hacker Group,Social Engineering,AI-based Detection,2
+843,India,2015,Phishing,Healthcare,76.08,471550,Unknown,Zero-day,VPN,5
+856,India,2023,Phishing,Retail,38.89,836604,Hacker Group,Unpatched Software,AI-based Detection,44
+864,India,2020,Ransomware,Healthcare,10.46,32616,Unknown,Unpatched Software,Firewall,63
+866,India,2023,DDoS,Banking,23.83,557428,Insider,Unpatched Software,VPN,38
+896,India,2015,SQL Injection,Telecommunications,63.72,916516,Hacker Group,Social Engineering,Encryption,68
+899,India,2016,Ransomware,IT,66.19,537670,Hacker Group,Unpatched Software,Encryption,55
+906,India,2018,Ransomware,IT,27.14,227433,Unknown,Unpatched Software,Antivirus,13
+910,India,2017,Ransomware,Education,98.11,677198,Unknown,Social Engineering,VPN,28
+918,India,2015,Ransomware,Telecommunications,24.7,825941,Hacker Group,Unpatched Software,VPN,54
+929,India,2017,DDoS,Retail,82.17,593329,Hacker Group,Unpatched Software,AI-based Detection,62
+936,India,2016,Ransomware,Education,8.55,857887,Unknown,Social Engineering,Firewall,44
+952,India,2022,Malware,IT,12.08,482213,Nation-state,Social Engineering,AI-based Detection,3
+953,India,2020,Phishing,Education,39.72,512850,Hacker Group,Zero-day,Antivirus,15
+972,India,2024,SQL Injection,Telecommunications,71.2,190099,Unknown,Zero-day,AI-based Detection,15
+992,India,2019,Malware,Banking,37.03,358371,Insider,Weak Passwords,AI-based Detection,30
+1001,India,2015,DDoS,Healthcare,10.94,600279,Insider,Unpatched Software,AI-based Detection,16
+1029,India,2015,Man-in-the-Middle,Banking,97.28,694308,Nation-state,Weak Passwords,VPN,66
+1044,India,2022,Man-in-the-Middle,Telecommunications,73.24,943689,Insider,Zero-day,Firewall,32
+1048,India,2019,SQL Injection,Banking,68.44,186842,Nation-state,Zero-day,VPN,40
+1077,India,2019,Phishing,Banking,18.42,289539,Nation-state,Unpatched Software,Antivirus,27
+1086,India,2021,Phishing,IT,37.1,713949,Hacker Group,Unpatched Software,Antivirus,71
+1099,India,2022,DDoS,IT,38.69,333967,Insider,Zero-day,Firewall,26
+1103,India,2023,Malware,Education,95.97,629490,Hacker Group,Zero-day,VPN,38
+1109,India,2021,Ransomware,Healthcare,76.83,603402,Insider,Zero-day,AI-based Detection,57
+1117,India,2020,Man-in-the-Middle,Banking,59.67,747418,Insider,Unpatched Software,VPN,20
+1119,India,2019,Malware,Retail,58.98,267401,Unknown,Zero-day,Firewall,20
+1139,India,2024,Man-in-the-Middle,IT,1.75,617939,Unknown,Zero-day,Firewall,22
+1149,India,2016,Phishing,Banking,43.81,250482,Insider,Weak Passwords,VPN,20
+1156,India,2019,Ransomware,Telecommunications,90.48,46972,Nation-state,Social Engineering,VPN,23
+1161,India,2015,SQL Injection,Banking,95.81,42883,Unknown,Zero-day,Encryption,37
+1163,India,2015,Man-in-the-Middle,Healthcare,29.54,837320,Unknown,Social Engineering,VPN,14
+1170,India,2018,SQL Injection,Education,77.02,424342,Unknown,Social Engineering,Antivirus,57
+1202,India,2023,SQL Injection,Government,40.63,356387,Nation-state,Zero-day,Antivirus,11
+1211,India,2017,SQL Injection,Government,20.21,421023,Insider,Unpatched Software,Encryption,72
+1212,India,2015,Ransomware,Healthcare,1.48,818172,Unknown,Social Engineering,VPN,30
+1226,India,2022,Malware,Government,27.09,979810,Insider,Weak Passwords,VPN,34
+1231,India,2023,Malware,Healthcare,71.94,652957,Insider,Weak Passwords,Encryption,65
+1233,India,2018,Ransomware,Retail,56.06,382041,Unknown,Weak Passwords,Encryption,4
+1243,India,2020,Ransomware,IT,70.91,403494,Hacker Group,Social Engineering,Firewall,3
+1264,India,2019,DDoS,Government,63.63,47191,Insider,Unpatched Software,VPN,28
+1277,India,2020,SQL Injection,Government,99.72,604113,Insider,Weak Passwords,Encryption,7
+1280,India,2018,DDoS,Banking,43.45,180980,Hacker Group,Unpatched Software,AI-based Detection,15
+1285,India,2015,Ransomware,Banking,81.81,41635,Nation-state,Unpatched Software,Encryption,37
+1289,India,2015,DDoS,Retail,39.28,585934,Insider,Unpatched Software,Antivirus,13
+1305,India,2020,Man-in-the-Middle,Telecommunications,57.89,438137,Unknown,Unpatched Software,VPN,18
+1315,India,2024,Phishing,Telecommunications,50.64,513620,Unknown,Unpatched Software,Antivirus,65
+1325,India,2022,SQL Injection,Healthcare,91.91,180456,Unknown,Unpatched Software,VPN,8
+1327,India,2022,Malware,Education,7.17,268414,Insider,Unpatched Software,Encryption,9
+1331,India,2020,SQL Injection,Banking,89.8,895388,Insider,Social Engineering,AI-based Detection,54
+1332,India,2020,SQL Injection,Telecommunications,17.47,436517,Nation-state,Weak Passwords,Antivirus,61
+1333,India,2018,Phishing,IT,70.85,677164,Nation-state,Weak Passwords,Firewall,7
+1353,India,2020,Phishing,IT,3.2,922656,Insider,Zero-day,AI-based Detection,17
+1354,India,2018,Ransomware,Retail,62.59,498457,Insider,Weak Passwords,VPN,12
+1368,India,2020,Ransomware,Healthcare,70.67,564046,Insider,Social Engineering,Firewall,39
+1378,India,2015,Ransomware,Government,56.3,59582,Nation-state,Unpatched Software,VPN,56
+1385,India,2015,SQL Injection,Government,56.84,631420,Nation-state,Unpatched Software,Firewall,68
+1405,India,2017,Malware,IT,22.04,210495,Insider,Weak Passwords,Firewall,18
+1413,India,2021,Ransomware,Education,20.26,144065,Insider,Unpatched Software,Firewall,62
+1414,India,2024,DDoS,Telecommunications,85.02,700440,Hacker Group,Weak Passwords,VPN,23
+1424,India,2022,SQL Injection,Telecommunications,95.74,849940,Insider,Weak Passwords,AI-based Detection,61
+1434,India,2018,Phishing,Banking,71.58,31733,Hacker Group,Unpatched Software,Encryption,49
+1440,India,2016,SQL Injection,IT,29.24,786464,Unknown,Weak Passwords,Encryption,38
+1451,India,2018,DDoS,Education,55.3,512953,Unknown,Weak Passwords,Firewall,57
+1452,India,2023,Phishing,IT,88.71,337377,Hacker Group,Social Engineering,AI-based Detection,23
+1453,India,2024,DDoS,Retail,0.6,766733,Insider,Zero-day,AI-based Detection,55
+1459,India,2020,Phishing,Telecommunications,30.14,742555,Insider,Zero-day,Firewall,57
+1464,India,2022,SQL Injection,Education,61.41,995847,Nation-state,Social Engineering,Encryption,1
+1469,India,2015,Malware,Banking,34.51,970056,Hacker Group,Unpatched Software,Firewall,30
+1489,India,2021,Man-in-the-Middle,Banking,55.12,942454,Hacker Group,Social Engineering,VPN,66
+1496,India,2019,Ransomware,Government,10.37,912202,Nation-state,Weak Passwords,VPN,15
+1501,India,2021,SQL Injection,Retail,85.69,172469,Insider,Weak Passwords,Antivirus,16
+1503,India,2021,Malware,Telecommunications,82.66,586,Hacker Group,Zero-day,VPN,23
+1509,India,2018,SQL Injection,Government,18.44,27344,Nation-state,Zero-day,VPN,1
+1515,India,2024,Ransomware,Government,79.3,998833,Hacker Group,Social Engineering,Firewall,21
+1533,India,2023,Ransomware,Retail,5.57,582097,Insider,Weak Passwords,Antivirus,40
+1535,India,2020,Phishing,Retail,25.79,907128,Insider,Unpatched Software,Antivirus,13
+1539,India,2020,Phishing,Healthcare,38.19,847958,Insider,Weak Passwords,Firewall,32
+1540,India,2015,Man-in-the-Middle,Banking,38.1,187807,Nation-state,Unpatched Software,VPN,37
+1558,India,2017,Ransomware,Government,89.47,201732,Unknown,Zero-day,Antivirus,39
+1582,India,2024,Ransomware,IT,88.23,526308,Insider,Unpatched Software,Antivirus,23
+1593,India,2022,Man-in-the-Middle,Retail,13.82,633855,Hacker Group,Social Engineering,Antivirus,37
+1596,India,2023,SQL Injection,Government,60.53,15768,Unknown,Zero-day,VPN,66
+1599,India,2020,Phishing,Healthcare,64.7,541451,Hacker Group,Weak Passwords,Encryption,17
+1602,India,2015,Man-in-the-Middle,Telecommunications,48.58,358210,Nation-state,Zero-day,AI-based Detection,11
+1605,India,2018,SQL Injection,Healthcare,47.15,98266,Insider,Social Engineering,Firewall,18
+1687,India,2022,Malware,Telecommunications,97.03,404834,Hacker Group,Zero-day,VPN,62
+1690,India,2019,SQL Injection,Retail,15.39,514826,Hacker Group,Unpatched Software,Firewall,72
+1698,India,2022,Man-in-the-Middle,Government,4.05,357898,Hacker Group,Social Engineering,Firewall,27
+1709,India,2019,SQL Injection,IT,43.97,764974,Nation-state,Weak Passwords,VPN,18
+1710,India,2017,Man-in-the-Middle,Healthcare,91.4,621971,Nation-state,Weak Passwords,AI-based Detection,49
+1715,India,2021,SQL Injection,IT,52.16,100105,Unknown,Zero-day,Firewall,56
+1728,India,2023,DDoS,Government,34.46,580270,Unknown,Unpatched Software,Firewall,35
+1759,India,2015,Malware,Retail,89.95,917351,Unknown,Zero-day,Encryption,43
+1761,India,2017,Ransomware,Government,38.87,968822,Nation-state,Weak Passwords,Antivirus,25
+1791,India,2019,DDoS,Banking,58.96,891815,Unknown,Weak Passwords,Antivirus,19
+1800,India,2016,Man-in-the-Middle,IT,23.38,618125,Nation-state,Zero-day,VPN,16
+1805,India,2024,Malware,Healthcare,13.74,330581,Unknown,Zero-day,AI-based Detection,54
+1807,India,2022,Malware,Telecommunications,19.56,772330,Hacker Group,Unpatched Software,Encryption,20
+1818,India,2015,Man-in-the-Middle,Healthcare,37.15,357124,Nation-state,Weak Passwords,Antivirus,31
+1820,India,2018,Phishing,Retail,14.46,743107,Hacker Group,Social Engineering,VPN,49
+1821,India,2022,Man-in-the-Middle,Banking,32.47,947465,Unknown,Unpatched Software,AI-based Detection,69
+1823,India,2024,Malware,IT,92.08,430701,Hacker Group,Unpatched Software,VPN,54
+1828,India,2018,Malware,Healthcare,66.96,294133,Insider,Social Engineering,VPN,20
+1849,India,2018,Phishing,Government,41.1,25094,Nation-state,Unpatched Software,VPN,42
+1873,India,2015,Ransomware,IT,61.68,503774,Hacker Group,Zero-day,Firewall,37
+1879,India,2024,Phishing,IT,97.25,165316,Unknown,Zero-day,Encryption,61
+1899,India,2020,Phishing,Retail,12.64,805905,Nation-state,Social Engineering,Firewall,54
+1916,India,2019,Ransomware,Banking,89.41,453441,Hacker Group,Unpatched Software,VPN,29
+1919,India,2018,Phishing,IT,13.05,400964,Nation-state,Weak Passwords,VPN,19
+1927,India,2024,Man-in-the-Middle,Retail,30.59,619881,Nation-state,Unpatched Software,Antivirus,42
+1933,India,2020,Man-in-the-Middle,Retail,84.77,129144,Hacker Group,Weak Passwords,Antivirus,25
+1943,India,2021,Malware,Government,57.91,769222,Insider,Weak Passwords,Antivirus,32
+1946,India,2019,DDoS,IT,44.01,612030,Nation-state,Unpatched Software,Antivirus,47
+1964,India,2018,SQL Injection,Telecommunications,15.96,444408,Unknown,Weak Passwords,AI-based Detection,64
+1970,India,2022,DDoS,Banking,13.97,762440,Nation-state,Unpatched Software,AI-based Detection,19
+1998,India,2020,DDoS,Healthcare,16.65,324899,Insider,Unpatched Software,Firewall,57
+2010,India,2019,SQL Injection,Education,95.54,862718,Hacker Group,Weak Passwords,Antivirus,44
+2015,India,2017,Man-in-the-Middle,IT,68.68,725608,Insider,Zero-day,AI-based Detection,15
+2017,India,2017,SQL Injection,Government,40.98,402855,Insider,Social Engineering,AI-based Detection,26
+2047,India,2019,Phishing,IT,33.15,629687,Unknown,Social Engineering,Firewall,53
+2048,India,2021,Phishing,Retail,38.5,517843,Unknown,Unpatched Software,VPN,69
+2056,India,2018,Ransomware,Government,43.11,11241,Hacker Group,Weak Passwords,VPN,4
+2062,India,2020,Malware,Education,20.14,287352,Unknown,Zero-day,Firewall,69
+2072,India,2020,Ransomware,IT,41.09,698224,Insider,Unpatched Software,VPN,21
+2088,India,2017,Phishing,IT,93.62,899005,Insider,Weak Passwords,AI-based Detection,61
+2105,India,2018,Ransomware,Healthcare,11.57,144533,Unknown,Social Engineering,Encryption,67
+2116,India,2024,SQL Injection,Retail,48.83,96083,Unknown,Weak Passwords,Firewall,17
+2123,India,2020,Ransomware,Healthcare,79.48,461093,Hacker Group,Zero-day,Firewall,42
+2134,India,2020,Ransomware,Government,12.64,10206,Hacker Group,Weak Passwords,Encryption,28
+2140,India,2015,Malware,Telecommunications,4.52,252949,Insider,Unpatched Software,Firewall,51
+2162,India,2023,SQL Injection,Telecommunications,80.14,241449,Unknown,Unpatched Software,Antivirus,27
+2173,India,2018,Malware,Government,25.53,505404,Insider,Zero-day,AI-based Detection,30
+2175,India,2020,DDoS,Telecommunications,18.18,208313,Hacker Group,Weak Passwords,Encryption,5
+2186,India,2016,Man-in-the-Middle,Telecommunications,42.88,934333,Insider,Unpatched Software,Firewall,60
+2196,India,2019,Phishing,IT,52.47,880546,Nation-state,Zero-day,VPN,39
+2205,India,2020,SQL Injection,Telecommunications,87.44,731625,Nation-state,Zero-day,Antivirus,33
+2207,India,2017,Man-in-the-Middle,Telecommunications,32.4,437554,Insider,Weak Passwords,Firewall,19
+2208,India,2023,Phishing,Retail,53.07,589348,Hacker Group,Social Engineering,Antivirus,4
+2210,India,2020,SQL Injection,Government,42.81,432917,Hacker Group,Unpatched Software,AI-based Detection,53
+2222,India,2018,Malware,Education,99.09,395264,Unknown,Weak Passwords,Antivirus,5
+2231,India,2023,Ransomware,Education,9.32,182887,Hacker Group,Unpatched Software,Firewall,51
+2236,India,2019,DDoS,Banking,35.31,961173,Insider,Social Engineering,VPN,37
+2240,India,2020,Malware,IT,84.43,999542,Hacker Group,Social Engineering,Encryption,15
+2244,India,2018,Phishing,Education,43.54,76479,Insider,Zero-day,Firewall,4
+2253,India,2021,SQL Injection,Government,18.26,78277,Hacker Group,Weak Passwords,Firewall,51
+2254,India,2023,Man-in-the-Middle,IT,90.85,985267,Hacker Group,Unpatched Software,Firewall,48
+2281,India,2023,Phishing,Banking,87.62,210006,Nation-state,Social Engineering,VPN,27
+2289,India,2021,Ransomware,Banking,54.97,798498,Nation-state,Zero-day,VPN,54
+2304,India,2024,Phishing,Telecommunications,38.68,224143,Nation-state,Social Engineering,Antivirus,60
+2310,India,2015,Phishing,Healthcare,28.6,690500,Hacker Group,Weak Passwords,Encryption,11
+2311,India,2016,SQL Injection,Banking,4.31,520308,Insider,Zero-day,VPN,39
+2312,India,2020,Phishing,Education,17.43,84643,Nation-state,Unpatched Software,Antivirus,53
+2318,India,2021,Ransomware,Education,86.73,534013,Unknown,Unpatched Software,Firewall,49
+2327,India,2018,Phishing,Education,5.27,982450,Unknown,Weak Passwords,Firewall,32
+2342,India,2015,Ransomware,Education,96.03,898251,Hacker Group,Weak Passwords,Antivirus,70
+2344,India,2017,DDoS,Banking,45.98,538245,Hacker Group,Weak Passwords,AI-based Detection,18
+2345,India,2021,Malware,Telecommunications,50.97,838461,Nation-state,Zero-day,AI-based Detection,6
+2347,India,2021,DDoS,Education,95.95,62194,Nation-state,Zero-day,AI-based Detection,12
+2354,India,2020,Malware,Healthcare,20.62,54206,Insider,Unpatched Software,VPN,51
+2355,India,2018,DDoS,Telecommunications,47.5,423071,Unknown,Unpatched Software,Antivirus,69
+2360,India,2023,DDoS,Healthcare,2.27,438318,Hacker Group,Unpatched Software,AI-based Detection,39
+2361,India,2018,DDoS,Education,1.71,63389,Insider,Unpatched Software,VPN,20
+2367,India,2016,Ransomware,Banking,93.74,339815,Insider,Weak Passwords,Firewall,58
+2389,India,2022,SQL Injection,Education,0.83,977791,Unknown,Weak Passwords,Antivirus,15
+2394,India,2023,Ransomware,Healthcare,18.26,312340,Nation-state,Zero-day,VPN,35
+2395,India,2016,Man-in-the-Middle,Banking,15.28,995025,Unknown,Weak Passwords,AI-based Detection,52
+2413,India,2018,Ransomware,Retail,26.01,732636,Hacker Group,Zero-day,VPN,3
+2446,India,2015,Man-in-the-Middle,IT,76.97,224983,Nation-state,Weak Passwords,AI-based Detection,42
+2450,India,2023,Phishing,Retail,5.11,620560,Hacker Group,Weak Passwords,Antivirus,59
+2459,India,2024,Man-in-the-Middle,Telecommunications,93.46,409281,Nation-state,Weak Passwords,Antivirus,18
+2462,India,2023,Ransomware,Banking,57.15,704230,Nation-state,Zero-day,VPN,71
+2464,India,2024,DDoS,Healthcare,4.08,488599,Unknown,Social Engineering,Encryption,11
+2468,India,2020,Man-in-the-Middle,Government,50.19,659835,Unknown,Zero-day,Encryption,46
+2475,India,2017,Malware,Government,61.02,650042,Nation-state,Unpatched Software,Antivirus,48
+2479,India,2022,Malware,Retail,13.88,813217,Insider,Zero-day,AI-based Detection,71
+2486,India,2019,Phishing,Education,6.29,344693,Hacker Group,Social Engineering,Encryption,19
+2499,India,2020,Man-in-the-Middle,Education,39.15,963367,Insider,Zero-day,Encryption,50
+2528,India,2024,Phishing,Retail,92.48,32067,Insider,Unpatched Software,Antivirus,19
+2547,India,2023,Man-in-the-Middle,Retail,95.66,424762,Insider,Unpatched Software,VPN,10
+2549,India,2018,DDoS,Government,65.11,95378,Insider,Social Engineering,Antivirus,67
+2550,India,2017,Phishing,IT,53.95,920801,Nation-state,Zero-day,Antivirus,52
+2576,India,2023,Phishing,Education,9.95,317488,Insider,Social Engineering,VPN,46
+2593,India,2023,DDoS,Retail,73.85,504861,Unknown,Weak Passwords,Antivirus,65
+2605,India,2015,DDoS,Education,21.74,513867,Unknown,Zero-day,Firewall,34
+2607,India,2020,Malware,Healthcare,7.08,875225,Unknown,Zero-day,Antivirus,31
+2615,India,2021,Malware,Education,65.87,357399,Nation-state,Zero-day,Encryption,2
+2625,India,2015,Phishing,IT,25.47,741259,Hacker Group,Unpatched Software,Antivirus,18
+2630,India,2020,Malware,Healthcare,3.74,58205,Hacker Group,Unpatched Software,Encryption,63
+2631,India,2016,SQL Injection,Healthcare,33.11,830670,Unknown,Social Engineering,Antivirus,11
+2644,India,2017,Malware,Healthcare,66.29,430200,Unknown,Zero-day,Antivirus,48
+2651,India,2016,Man-in-the-Middle,Healthcare,8.25,875227,Unknown,Zero-day,AI-based Detection,20
+2679,India,2023,Ransomware,Banking,42.02,827952,Hacker Group,Unpatched Software,AI-based Detection,21
+2683,India,2024,Malware,Banking,14.01,141437,Nation-state,Weak Passwords,Firewall,10
+2693,India,2019,Man-in-the-Middle,Government,98.86,48647,Unknown,Zero-day,Encryption,48
+2708,India,2016,Man-in-the-Middle,IT,70.24,374767,Unknown,Unpatched Software,Antivirus,67
+2740,India,2023,DDoS,Retail,26.01,274512,Insider,Weak Passwords,AI-based Detection,69
+2744,India,2023,Man-in-the-Middle,IT,58.9,24387,Hacker Group,Unpatched Software,Encryption,29
+2755,India,2018,Malware,Education,41.28,197323,Hacker Group,Social Engineering,Antivirus,47
+2756,India,2016,Malware,IT,34.78,294587,Unknown,Social Engineering,AI-based Detection,43
+2767,India,2022,SQL Injection,Banking,27.86,310150,Unknown,Unpatched Software,AI-based Detection,21
+2771,India,2022,DDoS,Banking,92.23,626017,Unknown,Unpatched Software,Antivirus,1
+2784,India,2024,DDoS,Banking,47.1,21292,Insider,Social Engineering,Antivirus,10
+2814,India,2020,Phishing,Government,85.73,340643,Unknown,Zero-day,Firewall,72
+2833,India,2022,SQL Injection,Government,53.89,633626,Nation-state,Social Engineering,Antivirus,54
+2842,India,2021,SQL Injection,Healthcare,2.3,942089,Insider,Unpatched Software,VPN,39
+2872,India,2018,SQL Injection,Education,12.44,599905,Nation-state,Social Engineering,VPN,13
+2879,India,2018,Man-in-the-Middle,Healthcare,56.88,416331,Hacker Group,Unpatched Software,Encryption,62
+2889,India,2024,SQL Injection,IT,8.85,746862,Nation-state,Unpatched Software,Encryption,51
+2890,India,2024,SQL Injection,Government,28.13,244429,Hacker Group,Zero-day,AI-based Detection,8
+2900,India,2016,Ransomware,IT,43.65,340213,Nation-state,Zero-day,Antivirus,15
+2902,India,2024,Malware,Government,56.13,629293,Insider,Weak Passwords,VPN,69
+2911,India,2018,Malware,Banking,20.76,68718,Insider,Social Engineering,Encryption,47
+2947,India,2021,Ransomware,Government,9.54,386911,Insider,Social Engineering,Antivirus,33
+2952,India,2019,Phishing,Government,8.93,725325,Insider,Zero-day,Firewall,16
+2967,India,2018,SQL Injection,Government,80.0,147384,Unknown,Zero-day,Firewall,54
+2970,India,2019,DDoS,Banking,14.98,849664,Unknown,Social Engineering,Antivirus,40
+2972,India,2023,Man-in-the-Middle,Retail,12.96,254903,Unknown,Social Engineering,Firewall,4
+2974,India,2022,Phishing,IT,37.76,800909,Nation-state,Zero-day,Antivirus,53
+2978,India,2023,Malware,Healthcare,70.36,992014,Insider,Social Engineering,Encryption,62
