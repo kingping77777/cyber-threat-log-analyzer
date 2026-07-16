@@ -1,95 +1,105 @@
 # 🛡️ Cyber Threat Log Analyzer
 
-A Data Science and Machine Learning project that analyzes global cybersecurity incidents and gradually evolves into a complete AI-powered threat analysis system.
+A Machine Learning project that analyzes cybersecurity incidents and predicts the **financial loss (in million dollars)** caused by cyber attacks using multiple regression algorithms.
+
+This repository is part of my Machine Learning learning journey, where I implement every algorithm from scratch using Scikit-Learn and compare their performance on a real-world cybersecurity dataset.
 
 ---
 
-## 📌 Project Goal
+## 📌 Project Overview
 
-Build a complete Machine Learning pipeline using a real-world cybersecurity dataset.
+The goal of this project is to:
 
-The project starts with Exploratory Data Analysis (EDA), progresses through Machine Learning, and will eventually include Deep Learning and AI.
+- Analyze cybersecurity attack data
+- Perform data preprocessing and feature engineering
+- Train multiple Machine Learning models
+- Compare model performance
+- Learn professional ML workflows
+- Build an end-to-end ML project
+
+Target Variable:
+
+```
+Financial Loss (in Million $)
+```
 
 ---
 
-# 🚀 Roadmap Progress
+## 📂 Dataset
+
+**Dataset:** Global Cybersecurity Threats (2015–2024)
+
+Features include:
+
+- Country
+- Year
+- Attack Type
+- Target Industry
+- Number of Affected Users
+- Attack Source
+- Security Vulnerability Type
+- Defense Mechanism Used
+- Incident Resolution Time
+
+Target:
+
+- Financial Loss (Million $)
+
+---
+
+# 🚀 Machine Learning Roadmap Progress
 
 ## ✅ Completed
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
+- Data Understanding
+- Feature Engineering
+- Train-Test Split
+- Data Preprocessing
+- Feature Scaling
+- Linear Regression
+- Decision Tree Regression
+- Random Forest Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVR)
 
-### EDA Completed
+## 🔄 Upcoming
 
-- Data Exploration
-- Data Cleaning
-- Statistical Analysis
-- GroupBy Analysis
-- Line Plots
-- Bar Plots
-- Count Plots
-- Histograms
-- Distribution Plots
-- Scatter Plots
-- Regression Plots
-- Boxplots
-- Violin Plots
-- Heatmaps
-- Pairplots
+- Naive Bayes
+- Clustering
+- PCA
+- Model Selection
+- Ensemble Learning
+- Boosting Algorithms
+- Feature Selection
+- Model Explainability
+- Professional ML Pipelines
 
 ---
 
-## 🔄 Currently Working On
+# 🤖 Models Implemented
 
-### Machine Learning
-
-- [ ] Phase 1 - Machine Learning Fundamentals & Data Preprocessing
-- [ ] Phase 2 - Feature Engineering
-- [ ] Phase 3 - Train/Test Split
-- [ ] Phase 4 - Feature Scaling
-- [ ] Phase 5 - Linear Regression
-- [ ] Phase 6 - Classification
-- [ ] Phase 7 - Model Evaluation
-- [ ] Phase 8 - Cross Validation
-- [ ] Phase 9 - Hyperparameter Tuning
-- [ ] Phase 10 - Feature Selection
-- [ ] Phase 11 - Clustering
-- [ ] Phase 12 - Dimensionality Reduction (PCA)
-- [ ] Phase 13 - Anomaly Detection
-- [ ] Phase 14 - Pipelines
-- [ ] Phase 15 - Model Persistence
-- [ ] Phase 16 - End-to-End ML Workflow
-- [ ] Phase 17 - Final Cyber Threat ML System
-- [ ] Phase 18 - Reinforcement Learning Fundamentals
-- [ ] Phase 19 - Q-Learning
-- [ ] Phase 20 - Reinforcement Learning Mini Project
+| Algorithm | Status |
+|------------|--------|
+| Linear Regression | ✅ |
+| Decision Tree | ✅ |
+| Random Forest | ✅ |
+| K-Nearest Neighbors | ✅ |
+| Support Vector Machine | ✅ |
+| Naive Bayes | 🔜 |
+| Clustering | 🔜 |
+| PCA | 🔜 |
 
 ---
 
-# 📂 Project Structure
+# 📊 Current Best Results
 
-```
-cyber-threat-log-analyzer/
-
-├── data/
-
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Machine_Learning.ipynb
-│   └── 03_Deep_Learning.ipynb (Coming Soon)
-
-├── models/ (Coming Soon)
-
-├── reports/ (Coming Soon)
-
-├── README.md
-
-└── requirements.txt
-```
+| Model | RMSE |
+|--------|------|
+| Random Forest | **28.50** |
+| Support Vector Machine | **28.50** |
+| Linear Regression | 28.52 |
+| KNN (Tuned) | 28.57 |
+| Decision Tree | 29.47 |
 
 ---
 
@@ -100,43 +110,85 @@ cyber-threat-log-analyzer/
 - Pandas
 - Matplotlib
 - Seaborn
-
-Upcoming
-
 - Scikit-Learn
-- SQL
-- FastAPI
-- Docker
-- PyTorch
-- TensorFlow
-- Transformers
-- AI Agents
+- Jupyter Notebook
+- Git
+- GitHub
 
 ---
 
-# 📈 Current Status
+# 📁 Repository Structure
 
 ```
-Python          ✅
-NumPy           ✅
-Pandas          ✅
-Matplotlib      ✅
-Seaborn         ✅
+cyber-threat-log-analyzer/
 
-Machine Learning 🔄
+│
+├── data/
+│   └── Global_Cybersecurity_Threats_2015_2024.csv
+│
+├── notebooks/
+│   └── 02_Machine_Learning.ipynb
+│
+├── reports/
+│
+└── README.md
 ```
 
 ---
 
-# 🎯 Future Goals
+# 📚 Concepts Learned
 
-- Build a complete Machine Learning system.
-- Predict cybersecurity financial losses.
-- Detect cyber attack patterns.
-- Deploy ML models using FastAPI.
-- Containerize with Docker.
-- Extend the project with Deep Learning.
-- Build an Autonomous Multimodal AI Workspace.
+- Data Cleaning
+- Feature Engineering
+- Label Encoding
+- One Hot Encoding
+- Train-Test Split
+- Feature Scaling
+- Regression Algorithms
+- Hyperparameter Tuning
+- Model Evaluation
+- R² Score
+- MAE
+- MSE
+- RMSE
+
+---
+
+# 🎯 Future Improvements
+
+- Build reusable ML Pipelines
+- Hyperparameter Optimization
+- Streamlit Dashboard
+- SQL Integration
+- Model Deployment using FastAPI
+- Docker Support
+- End-to-End ML Project
+
+---
+
+# 📈 Learning Journey
+
+This repository is continuously updated as I learn new Machine Learning concepts.
+
+Every completed phase includes:
+
+- Theory Notes
+- Code Implementation
+- Model Evaluation
+- Comparison with Previous Models
+- Git Version Control
+
+---
+
+# ⭐ Future Goal
+
+Transform this project into a production-ready Machine Learning application where users can:
+
+- Upload cybersecurity datasets
+- Predict financial loss
+- Visualize results
+- Compare multiple ML models
+- Download prediction reports
 
 ---
 
@@ -146,4 +198,8 @@ Machine Learning 🔄
 
 B.Tech CSE (AI)
 
-Learning Machine Learning and Artificial Intelligence through hands-on projects.
+Aspiring AI Engineer | Machine Learning Engineer | AI Research Enthusiast
+
+---
+
+⭐ If you like this project, consider giving it a star!
